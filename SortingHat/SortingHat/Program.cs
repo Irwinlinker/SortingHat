@@ -109,7 +109,7 @@ namespace SortingHat
                 string newFirstName = "";
                 string newLastName = "";
 
-                string[] maleFirstNames = {"Draco", "Albus", "Cedric",
+                string[] maleFirstNames = {"Horace", "Albus", "Cedric",
                   "Remus", "Arthur", "George",
                   "Fred", "Oliver", "Neville",
                   "Kingsley", "Percival", "Harry",
